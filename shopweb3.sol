@@ -56,7 +56,6 @@ contract Shopweb3{
     enum OrderState{
         pending,
         confirmed,
-        delivered, 
         cancelled
     }
 
